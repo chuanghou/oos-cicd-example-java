@@ -19,6 +19,7 @@
 	</properties>
 
 	<!-- 换成阿里云maven源加速 -->
+	
 	<repositories>
 		<repository>
 			<id>aliyun-central</id>
